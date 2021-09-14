@@ -12,7 +12,7 @@ La bibliothèque vous permet de :
 
 With [npm](http://npmjs.org) do:
 
-    $ npm install cinetpay-nodejs
+    $ npm install cinetpaymarcbah-nodejs
 
 ## Utilisation
 
