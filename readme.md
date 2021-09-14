@@ -58,7 +58,7 @@ cp.checkPayStatus('TRANSACTION_ID')
 ## URL de Notification
 Pour ceux qui possèdent des services qui ne neccessitent pas un traitement des notifications de paiement de CinetPay, vous pouvez ignorer cette étape par exemple les services de don.
 
-A chaque paiement, CinetPay vous notifie via un lien de notification, nous vous conseillons de toujours le traiter côté serveur. Suivez ce lien pour en savoir plus sur la [Notification de paiement](https://github.com/cinetpay/seamlessIntegration#etape-1--pr%C3%A9parer-la-page-de-notification)
+A chaque paiement, CinetPay vous notifie via un lien de notification, nous vous conseillons de toujours le traiter côté serveur. Suivez ce lien pour en savoir plus sur la [Notification de paiement](https://github.com/cinetpaymarcbah-nodejs/seamlessIntegration#etape-1--pr%C3%A9parer-la-page-de-notification)
 
 ## Compatibilité
 Ce package a été testé et fonctionne sur tous les navigateurs modernes y compris :

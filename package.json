@@ -2,7 +2,7 @@
     "name": "cinetpay-nodejs",
     "version": "1.0.2",
     "description": "Make payment with CinetPay",
-    "author": "Lamine AZINAKOU",
+    "author": "Marc Bah",
     "license": "MIT",
     "main": "index.js",
     "keywords": [
@@ -10,18 +10,18 @@
         "mobile money",
         "payment",
         "gateway",
-        "azinakou"
+        "marcbah"
     ],
     "dependencies": {
         "axios": "^0.19.2",
         "query-string": "^6.10.1"
     },
-    "homepage": "https://github.com/cinetpay/cinetpay-nodejs",
+    "homepage": "https://github.com/cheickmarc/cinetpaymarcbah-nodejs",
     "repository": {
         "type": "git",
-        "url": "https://github.com/cinetpay/cinetpay-nodejs"
+        "url": "https://github.com/cheickmarc/cinetpaymarcbah-nodejs"
     },
     "bugs": {
-        "url": "https://github.com/cinetpay/cinetpay-nodejs/issues"
+        "url": "https://github.com/cheickmarc/cinetpaymarcbah-nodejs/issues"
     }
 }
